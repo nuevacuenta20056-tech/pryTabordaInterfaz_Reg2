@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryTabordaInterfaz_Reg", "pryTabordaInterfaz_Reg\pryTabordaInterfaz_Reg.csproj", "{9867A95A-8FFD-44F8-8035-8BFB2682414B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9867A95A-8FFD-44F8-8035-8BFB2682414B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9867A95A-8FFD-44F8-8035-8BFB2682414B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9867A95A-8FFD-44F8-8035-8BFB2682414B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9867A95A-8FFD-44F8-8035-8BFB2682414B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43394ADF-9D50-4CF1-AA78-BE0DBFEAD495}
+	EndGlobalSection
+EndGlobal
